@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>.</link>
+        <generator>jAlbum 30.1</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>NGM_09_1997_38</title>
+            <link>slides/NGM_09_1997_38.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_09_1997_38.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_09_1997_38.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_09_1997_38.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_9_68p303</title>
+            <link>slides/NGM_9_68p303.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_9_68p303.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_9_68p303.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_9_68p303.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_10_1997_2_3</title>
+            <link>slides/NGM_10_1997_2_3.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_10_1997_2_3.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_10_1997_2_3.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_10_1997_2_3.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_10_1997_11up</title>
+            <link>slides/NGM_10_1997_11up.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_10_1997_11up.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_10_1997_11up.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_10_1997_11up.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_11_1997_52_3</title>
+            <link>slides/NGM_11_1997_52_3.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_11_1997_52_3.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_11_1997_52_3.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_11_1997_52_3.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_12_1968_780_1</title>
+            <link>slides/NGM_12_1968_780_1.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_12_1968_780_1.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_12_1968_780_1.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_12_1968_780_1.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_12_1999_8_9</title>
+            <link>slides/NGM_12_1999_8_9.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_12_1999_8_9.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_12_1999_8_9.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_12_1999_8_9.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_12_1999_10</title>
+            <link>slides/NGM_12_1999_10.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_12_1999_10.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_12_1999_10.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_12_1999_10.jpg</guid>
+        </item>
+        <item>
+            <title>NON-NGS-BK-Odysseyp22</title>
+            <link>slides/NON-NGS-BK-Odysseyp22.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NON-NGS-BK-Odysseyp22.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NON-NGS-BK-Odysseyp22.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NON-NGS-BK-Odysseyp22.jpg</guid>
+        </item>
+        <item>
+            <title>NGM_199712_COVER</title>
+            <link>slides/NGM_199712_COVER.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGM_199712_COVER.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGM_199712_COVER.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGM_199712_COVER.jpg</guid>
+        </item>
+        <item>
+            <title>NGS1_001</title>
+            <link>slides/NGS1_001.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NGS1_001.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NGS1_001.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NGS1_001.jpg</guid>
+        </item>
+        <item>
+            <title>ngs1_576</title>
+            <link>slides/ngs1_576.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/ngs1_576.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/ngs1_576.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/ngs1_576.jpg</guid>
+        </item>
+        <item>
+            <title>NON-NGS-BK-Odysseyp86</title>
+            <link>slides/NON-NGS-BK-Odysseyp86.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NON-NGS-BK-Odysseyp86.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NON-NGS-BK-Odysseyp86.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NON-NGS-BK-Odysseyp86.jpg</guid>
+        </item>
+        <item>
+            <title>NON-NGS-BK-Odysseyp212</title>
+            <link>slides/NON-NGS-BK-Odysseyp212.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/NON-NGS-BK-Odysseyp212.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/NON-NGS-BK-Odysseyp212.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/NON-NGS-BK-Odysseyp212.jpg</guid>
+        </item>
+        <item>
+            <title>T0497_2</title>
+            <link>slides/T0497_2.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0497_2.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0497_2.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0497_2.jpg</guid>
+        </item>
+        <item>
+            <title>T0497_7</title>
+            <link>slides/T0497_7.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0497_7.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0497_7.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0497_7.jpg</guid>
+        </item>
+        <item>
+            <title>T0497_23</title>
+            <link>slides/T0497_23.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0497_23.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0497_23.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0497_23.jpg</guid>
+        </item>
+        <item>
+            <title>T0497_27</title>
+            <link>slides/T0497_27.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0497_27.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0497_27.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0497_27.jpg</guid>
+        </item>
+        <item>
+            <title>T0543_2</title>
+            <link>slides/T0543_2.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0543_2.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0543_2.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0543_2.jpg</guid>
+        </item>
+        <item>
+            <title>T0618_2</title>
+            <link>slides/T0618_2.jpg</link>
+            <pubDate>Wed, 29 Mar 2023 14:23:56 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/T0618_2.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/T0618_2.jpg" width="1024" height="768"/>
+            <guid isPermaLink="false">slides/T0618_2.jpg</guid>
+        </item>
+    </channel>
+</rss>
